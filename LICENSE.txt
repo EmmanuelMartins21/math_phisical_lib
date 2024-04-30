@@ -1,6 +1,4 @@
-MIT License
-
-Copyright (c) [year] [fullname]
+Copyright (c) [2024] [Emmanuel Cosme Martins Bento]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +9,10 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+**Non-Commercial Use Only**:
+
+The Software or any derivative works based on it may not be used for commercial purposes without the express written permission of the copyright holder.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
